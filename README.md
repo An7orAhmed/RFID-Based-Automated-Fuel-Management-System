@@ -1,4 +1,3 @@
-```markdown
 # RFID-Based Automated Fuel Management System
 
 A secure, automated system for fuel dispensing and balance tracking using RFID authentication and GSM communication.
@@ -51,4 +50,3 @@ This project manages fuel distribution through RFID card authentication, sends S
   - `fuel_fill()`: Calculates cost and dispenses fuel.  
   - `pass_mode()`: Validates PIN entries.  
   - `gate_open()/gate_lock()`: Controls gate servo motor.  
-```
