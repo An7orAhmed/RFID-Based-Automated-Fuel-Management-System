@@ -1,0 +1,4 @@
+16F73,2786,98,20
+Reminder! Line [7]	In file [C:\Users\antor\Google Drive\Embedded Projects\Tanvir Bhai\Projects\24.Fuel Management system\Firmware\PICsys\fuelsys.bas]	*** Ensure that all fuses are placed in the Config list, as devices have differing default settings! ***
+	PROGRAM COMPILED OK. 2786 Words used from a possible 4096
+	98 Variables used in the 16F73 from a possible 192
